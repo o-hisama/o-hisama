@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @o-hisama
+- 👋 Hi, I’m Olga
 - 👀 I’m interested in behavioural science and behavioural profiling
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on lie detection data 
